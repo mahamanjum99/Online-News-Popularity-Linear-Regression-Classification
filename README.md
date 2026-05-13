@@ -10,7 +10,7 @@ The notebook includes complete data preprocessing, exploratory data analysis, vi
 
 # 👩‍💻 Developers
 
-* Maha Manjum (24I-0053)
+* Maham Anjum (24I-0053)
 * Romaisa (24I-0061)
 
 ---
@@ -151,14 +151,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 * Classification Techniques
 * Data Visualization
 * Predictive Modeling
-
----
-
-# 🎓 Academic Information
-
-**Course:** Probability and Statistics (MT-2005)
-**University:** FAST NUCES Islamabad
-**Semester:** Spring 2026
 
 ---
 
